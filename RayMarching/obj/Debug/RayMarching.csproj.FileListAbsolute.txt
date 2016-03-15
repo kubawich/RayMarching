@@ -1,0 +1,18 @@
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\bin\Debug\RayMarching.exe.config
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\bin\Debug\RayMarching.exe
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\bin\Debug\RayMarching.pdb
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.Form1.resources
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.Properties.Resources.resources
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.csproj.GenerateResource.Cache
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.exe
+c:\users\kuba\documents\visual studio 2015\Projects\RayMarching\RayMarching\obj\Debug\RayMarching.pdb
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\bin\Debug\RayMarching.exe.config
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.exe
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.pdb
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\bin\Debug\RayMarching.exe
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\bin\Debug\RayMarching.pdb
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.Form1.resources
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.Properties.Resources.resources
+C:\Users\Kuba\Desktop\RayMarching\RayMarching\obj\Debug\RayMarching.csproj.GenerateResource.Cache
